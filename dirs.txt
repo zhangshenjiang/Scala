@@ -1,0 +1,20 @@
+total 64
+drwxrwxrwt 13 root      root      4096 11月 17 21:58 ./
+drwxr-xr-x 23 root      root      4096 11月  7 13:08 ../
+-rw-------  1 suplet    suplet    1402 11月 17 21:56 .bamficon1PCX7X
+-rw-------  1 suplet    suplet     833 11月 17 21:56 .bamficonF12D8X
+-rw-------  1 suplet    suplet       0 11月 17 12:23 config-err-gq1X3u
+-rw-------  1 suplet    suplet       0 11月 17 17:42 config-err-NDVeY3
+drwxrwxrwt  2 root      root      4096 11月 17 10:33 .font-unix/
+drwxrwxrwt  2 root      root      4096 11月 17 17:42 .ICE-unix/
+drwx------  2 shenjiang shenjiang 4096 11月 17 18:51 ssh-qyi8MSve6Xhm/
+drwx------  2 shenjiang shenjiang 4096 11月 17 18:52 ssh-ZlcNVRvkgdza/
+drwx------  3 root      root      4096 11月 17 10:33 systemd-private-4fddf1b020bc490f80930a432becfdc4-colord.service-Vzqlka/
+drwx------  3 root      root      4096 11月 17 10:33 systemd-private-4fddf1b020bc490f80930a432becfdc4-rtkit-daemon.service-zvpuVe/
+drwx------  3 root      root      4096 11月 17 10:33 systemd-private-4fddf1b020bc490f80930a432becfdc4-systemd-timesyncd.service-hjtHh3/
+drwxrwxrwt  2 root      root      4096 11月 17 10:33 .Test-unix/
+-rw-rw-r--  1 suplet    suplet       0 11月 17 12:23 unity_support_test.0
+drwx------  2 suplet    suplet    4096 11月 17 17:42 vmware-suplet/
+-r--r--r--  1 root      root        11 11月 17 17:42 .X0-lock
+drwxrwxrwt  2 root      root      4096 11月 17 17:42 .X11-unix/
+drwxrwxrwt  2 root      root      4096 11月 17 10:33 .XIM-unix/
